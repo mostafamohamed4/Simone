@@ -1,0 +1,774 @@
+@media screen and (max-width:1200px) and (min-width:992px) {
+
+    /* start about */
+    .about .contanier {
+        width: 100%;
+    }
+
+
+    .about .about_me h2 {
+        font-size: 105px;
+    }
+
+    .about .about_me p {
+        left: 39%;
+        font-size: 30px;
+
+
+    }
+
+    .about .profile {
+        width: 45%;
+    }
+
+    /* End about */
+
+    /*start services*/
+    .services .contanier {
+        width: 95%;
+    }
+
+    .services .services_head h2 {
+        font-size: 105px;
+    }
+
+    .services .services_head p {
+        left: 39%;
+        font-size: 30px;
+
+
+    }
+
+    .services .row .detiles .icon {
+        width: 50%;
+        height: 60%;
+    }
+
+    /* End services */
+    /* start Resume */
+    .Resume {
+        padding: 40px 10px;
+    }
+
+    .Resume .contanier {
+        width: 100%;
+    }
+
+    .Resume .Resume_head h2 {
+        font-size: 105px;
+    }
+
+    .services .Resume_head p {
+        left: 39%;
+        font-size: 30px;
+
+
+    }
+
+    .Resume .row .detiles h4 {
+        width: 25%;
+    }
+
+
+    /* End Resume */
+  
+    /*start Testimonial  */
+
+    .Testimonial {
+        padding: 15px;
+    }
+
+    .Testimonial .contanier {
+        width: 100%;
+
+    }
+
+    .Testimonial .Testimonial_head h2 {
+        font-size: 105px;
+    }
+
+    .Testimonial .Testimonial_head p {
+        left: 39%;
+        top: 39%;
+        font-size: 30px;
+
+
+    }
+
+    /* End Testimonial  */
+
+
+    /* Start Contact */
+    .Contact .contanier {
+        width: 100%;
+    }
+
+    .Contact .Contact_us {
+
+        width: 75%;
+    }
+
+    .Contact .Contact_us .send {
+        width: 35%;
+    }
+
+
+    /*End Contact */
+    /*Start footer */
+    .footer .contanier {
+        width: 100%;
+    }
+
+    /*End footer */
+
+}
+
+@media screen and (max-width:991px) and (min-width:768px) {
+
+    html {
+        font-size: 15px;
+    }
+    /* start navbar */
+   
+    /* start about */
+    .about .contanier {
+        width: 100%;
+        margin: auto;
+    }
+
+    .about .about_me h2 {
+        font-size: 100px;
+    }
+
+    .about .about_me p {
+        font-size: 27px;
+        left: 34%;
+    }
+
+    .about .detiles {
+
+        padding: 40px;
+        display: block;
+    }
+
+    .about .text {
+        width: 100%;
+    }
+
+    .about .profile {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    /* End about */
+    /* Start services */
+
+
+    .services {
+        padding: 20px 7px;
+    }
+
+    .services .contanier {
+        width: 100%;
+    }
+
+    .services .services_head h2 {
+        font-size: 100px;
+    }
+
+    .services .services_head p {
+        font-size: 27px;
+        left: 37%;
+    }
+
+    .services .row .detiles .icon {
+        width: 85%;
+        height: 45%;
+    }
+
+    /* End services */
+    /* start Resume */
+    .Resume {
+        padding: 10px;
+    }
+
+    .Resume .contanier {
+        width: 100%;
+    }
+
+    .Resume .Resume_head h2 {
+        font-size: 100px;
+    }
+
+    .Resume .Resume_head p {
+        font-size: 27px;
+        left: 40%;
+    }
+
+    .Resume .row .detiles h4 {
+        width: 35%;
+    }
+
+    /* End Resume */
+    /*start Testimonial  */
+
+    .Testimonial {
+        padding: 15px;
+    }
+
+    .Testimonial .contanier {
+        width: 100%;
+
+    }
+
+    .Testimonial .Testimonial_head h2 {
+        font-size: 100px;
+    }
+
+    .Testimonial .Testimonial_head p {
+        font-size: 27px;
+        left: 37%;
+        top: 40%;
+    }
+
+    .Testimonial .Testimonial_box {
+        display: block;
+    }
+
+    .Testimonial .Testimonial_box .box {
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
+    /* End Testimonial  */
+    /* Start Contact */
+    .Contact .Contact_head h2 {
+        font-size: 100px;
+    }
+
+    .Contact .Contact_head p {
+        font-size: 27px;
+        left: 37%;
+        top: 40%;
+    }
+
+
+
+    .Contact .contanier {
+        width: 100%;
+    }
+
+    .Contact .Contact_us .form {
+        display: block;
+    }
+
+    .Contact .Address {
+        width: 35%;
+    }
+
+    .Contact .Contact_us {
+
+        padding: 15px;
+        width: 65%;
+    }
+
+    .Contact .Contact_us .send {
+        width: 50%;
+    }
+
+    /*End Contact */
+    /*Start footer */
+    .footer .contanier {
+        width: 100%;
+    }
+
+    .footer .row {
+        display: block;
+        text-align: center;
+    }
+
+    .footer .text {
+        width: 100%;
+    }
+
+    .footer .items {
+        width: 100%;
+    }
+
+    .footer .items ul {
+        justify-content: center;
+    }
+
+    /*End footer */
+
+}
+
+@media screen and (max-width:767px) and (min-width:576px) {
+
+
+    html {
+        font-size: 14px;
+    }
+
+    /* start about */
+    .about .contanier {
+        width: 100%;
+    }
+
+    .about .about_me h2 {
+        font-size: 75px;
+    }
+
+    .about .about_me p {
+        font-size: 23px;
+        left: 35%;
+    }
+
+    .about .detiles {
+
+        padding: 40px;
+        display: block;
+    }
+
+    .about .text {
+        width: 100%;
+    }
+
+    .about .profile {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .about .count {
+        flex-wrap: wrap;
+    }
+
+    .about .items {
+        width: 50%;
+    }
+
+    /* End about */
+    /* start services */
+    .services {
+        padding: 10px;
+    }
+
+    .services .contanier {
+        width: 100%;
+    }
+
+    .services .services_head h2 {
+        font-size: 75px;
+    }
+
+    .services .services_head p {
+        font-size: 25px;
+        left: 35%;
+    }
+
+    .services .row .detiles {
+        width: 100%;
+    }
+
+    .services .row .detiles .icon {
+        width: 25%;
+        height: 70%;
+
+
+    }
+
+    /* End services */
+    /* start Resume */
+    .Resume .contanier {
+        width: 100%;
+    }
+
+    .Resume .Resume_head h2 {
+        font-size: 75px;
+    }
+
+    .Resume .Resume_head p {
+        font-size: 23px;
+        left: 35%;
+    }
+
+    .Resume .row {
+        display: block;
+    }
+
+    .Resume .summary {
+        width: 100%;
+        padding: 10px 5px;
+    }
+
+    .Resume .row .detiles h4 {
+        width: 30%;
+    }
+
+    .Resume .my_skills {
+
+        padding: 5px;
+    }
+
+    .Resume .my_skills .text {
+        display: block;
+    }
+
+    .Resume .my_skills .detiles {
+        width: 100%;
+    }
+
+    .Resume .detiles .layer {
+        width: 100%;
+    }
+
+    .Resume .skill {
+        width: 100%;
+    }
+
+
+    /* End Resume */
+    /*start Testimonial  */
+
+
+    .Testimonial {
+        padding: 15px;
+    }
+
+    .Testimonial .contanier {
+        width: 100%;
+
+    }
+
+    .Testimonial .Testimonial_head h2 {
+        font-size: 75px;
+    }
+
+    .Testimonial .Testimonial_head p {
+        font-size: 25px;
+        left: 35%;
+        top: 40%;
+    }
+
+    .Testimonial .Testimonial_box {
+        display: block;
+    }
+
+    .Testimonial .Testimonial_box .box {
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
+    /* End Testimonial  */
+   
+    /* Start Contact */
+    .Contact .contanier {
+        width: 100%;
+    }
+
+    .Contact .Contact_head h2 {
+        font-size: 75px;
+    }
+
+    .Contact .Contact_head p {
+        font-size: 25px;
+        left: 35%;
+        top: 40%;
+    }
+
+
+    .Contact .row {
+
+        flex-direction: column-reverse;
+
+    }
+
+    .Contact .Contact_us {
+        width: 100%;
+    }
+
+    .Contact .Contact_us .send {
+        width: 50%;
+    }
+
+
+    .Contact .Address {
+        width: 100%;
+        text-align: center;
+    }
+
+    .Contact .Address .follow_me {
+        display: flex;
+    }
+
+    .Contact .Contact_us .form {
+        display: block;
+    }
+
+    /*End Contact */
+
+    /*Start footer */
+    .footer .contanier {
+        width: 100%;
+    }
+
+    .footer .row {
+        display: block;
+        text-align: center;
+    }
+
+    .footer .text {
+        width: 100%;
+    }
+
+    .footer .items {
+        width: 100%;
+    }
+
+    .footer .items ul {
+        justify-content: center;
+    }
+
+    /*End footer */
+
+}
+
+@media screen and (max-width:575px) {
+    html {
+        font-size: 11px;
+    }
+
+
+    /* start about */
+    .about .contanier {
+        width: 100%;
+        margin: auto;
+    }
+
+    .about .about_me h2 {
+        font-size: 60px;
+        padding: 20px;
+    }
+
+    .about .about_me p {
+        font-size: 25px;
+        left: 30%;
+    }
+
+    .about .detiles {
+
+        padding: 0px;
+        display: block;
+    }
+
+    .about .text {
+        width: 100%;
+    }
+
+    .about .profile {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .about .count {
+        flex-wrap: wrap;
+    }
+
+    .about .items {
+        width: 50%;
+    }
+
+    /* End about */
+
+    /* start services */
+    .services {
+        padding: 20px 5px;
+    }
+
+    .services .contanier {
+        width: 100%;
+        margin: auto;
+    }
+
+    .services .services_head h2 {
+        font-size: 65px;
+    }
+
+    .services .services_head p {
+        font-size: 30px;
+        left: 30%;
+        top: 35%;
+    }
+
+    .services .row .detiles {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .services .row .detiles .icon {
+        width: 35%;
+        height: 55%;
+    }
+
+    /* End services */
+
+
+    /* start Resume */
+    .Resume {
+        padding: 20px;
+    }
+
+    .Resume .contanier {
+        width: 100%;
+    }
+
+    .Resume .Resume_head h2 {
+        font-size: 60px;
+        padding: 20px;
+    }
+
+    .Resume .Resume_head p {
+        font-size: 25px;
+        left: 35%;
+    }
+
+    .Resume .row {
+        display: block;
+    }
+
+    .Resume .summary {
+        width: 100%;
+        padding: 10px 0px;
+    }
+
+    .Resume .row .detiles h4 {
+        width: 30%;
+    }
+
+    .Resume .my_skills {
+        padding: 1px;
+    }
+
+    .Resume .my_skills .text {
+        display: block;
+    }
+
+    .Resume .my_skills .detiles {
+        width: 100%;
+    }
+
+    .Resume .detiles .layer {
+        width: 100%;
+    }
+
+    .Resume .skill {
+        width: 100%;
+    }
+
+    /* End Resume */
+
+    /*start Testimonial  */
+
+    .Testimonial {
+        padding: 10px;
+    }
+
+    .Testimonial .contanier {
+        width: 100%;
+
+    }
+
+    .Testimonial .Testimonial_head h2 {
+        font-size: 60px;
+    }
+
+    .Testimonial .Testimonial_head p {
+        font-size: 25px;
+        left: 33%;
+        top: 40%;
+    }
+
+    .Testimonial .Testimonial_box {
+        display: block;
+    }
+
+    .Testimonial .Testimonial_box .box {
+        width: 95%;
+        margin-bottom: 20px;
+    }
+
+    /* End Testimonial  */
+    /* Start Contact */
+    .Contact .Contact_head h2 {
+        font-size: 60px;
+    }
+
+    .Contact .Contact_head p {
+        font-size: 25px;
+        left: 33%;
+        top: 40%;
+    }
+
+    .Contact .contanier {
+        width: 100%;
+    }
+
+    .Contact .row {
+
+        flex-direction: column-reverse;
+
+    }
+
+    .Contact .Contact_us {
+        width: 100%;
+    }
+
+    .Contact .Contact_us .send {
+        width: 60%;
+    }
+
+
+    .Contact .Address {
+        width: 100%;
+        text-align: center;
+    }
+
+    .Contact .Address .follow_me {
+        display: flex;
+    }
+
+    .Contact .Contact_us .form {
+        display: block;
+    }
+
+
+    /*End Contact */
+
+    /*Start footer */
+    .footer {
+        padding: 50px 20px;
+    }
+
+    .footer .contanier {
+        width: 100%;
+    }
+
+    .footer .row {
+        display: block;
+        text-align: center;
+    }
+
+    .footer .text {
+        width: 100%;
+    }
+
+    .footer .items {
+        width: 100%;
+    }
+
+    .footer .items ul {
+        justify-content: center;
+    }
+
+    /*End footer */
+}
