@@ -537,8 +537,7 @@
     html {
         font-size: 11px;
     }
-
-
+   
     /* start about */
     .about .contanier {
         width: 100%;
@@ -666,6 +665,16 @@
     }
 
     /* End Resume */
+
+    .Portfolio .Portfolio_head h2 {
+        font-size: 60px;
+        padding: 20px;
+    }
+
+    .Portfolio .Portfolio_head p {
+        font-size: 25px;
+        left: 35%;
+    }
 
     /*start Testimonial  */
 
