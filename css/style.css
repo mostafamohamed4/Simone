@@ -199,7 +199,7 @@ body {
     color: #dee3e4;
     font-weight: 600;
     line-height: 1.3;
-    font-size: 125px;
+    font-size: 100px;
     opacity: 0.4;
     text-transform: uppercase;
 }
@@ -346,7 +346,7 @@ body {
     color: #dee3e4;
     font-weight: 600;
     line-height: 1.3;
-    font-size: 125px;
+    font-size: 100px;
     opacity: 0.4;
     text-transform: uppercase;
 }
@@ -441,7 +441,7 @@ body {
     color: #dee3e4;
     font-weight: 600;
     line-height: 1.3;
-    font-size: 125px;
+    font-size: 100px;
     opacity: 0.4;
     text-transform: uppercase;
 }
@@ -622,7 +622,7 @@ body {
     color: #dee3e4;
     font-weight: 600;
     line-height: 1.3;
-    font-size: 125px;
+    font-size: 100px;
     opacity: 0.4;
     text-transform: uppercase;
 }
@@ -769,19 +769,19 @@ body {
     color: #dee3e4;
     font-weight: 600;
     line-height: 1.3;
-    font-size: 125px;
+    font-size: 90px;
     opacity: 0.4;
     text-transform: uppercase;
 }
 
 .Testimonial .Testimonial_head p {
     font-weight: 600;
-    font-size: 36px;
+    font-size: 30px;
     color: #212529;
     line-height: 1.5;
     position: absolute;
     top: 33%;
-    left: 37%;
+    left: 42%;
 }
 
 .Testimonial .Testimonial_head p::after {
@@ -873,7 +873,7 @@ body {
     color: #dee3e4;
     font-weight: 600;
     line-height: 1.3;
-    font-size: 125px;
+    font-size: 100px;
     opacity: 0.4;
     text-transform: uppercase;
 }

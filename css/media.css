@@ -71,7 +71,7 @@
 
 
     /* End Resume */
-  
+
     /*start Testimonial  */
 
     .Testimonial {
@@ -128,8 +128,9 @@
     html {
         font-size: 15px;
     }
+
     /* start navbar */
-   
+
     /* start about */
     .about .contanier {
         width: 100%;
@@ -187,6 +188,8 @@
     }
 
     /* End services */
+
+
     /* start Resume */
     .Resume {
         padding: 10px;
@@ -426,6 +429,14 @@
         width: 100%;
     }
 
+    .Portfolio .Portfolio_head h2 {
+        font-size: 75px;
+    }
+
+    .Portfolio .Portfolio_head p {
+        font-size: 25px;
+        left: 35%;
+    }
 
     /* End Resume */
     /*start Testimonial  */
@@ -460,7 +471,7 @@
     }
 
     /* End Testimonial  */
-   
+
     /* Start Contact */
     .Contact .contanier {
         width: 100%;
@@ -475,7 +486,6 @@
         left: 35%;
         top: 40%;
     }
-
 
     .Contact .row {
 
@@ -537,7 +547,8 @@
     html {
         font-size: 11px;
     }
-   
+
+
     /* start about */
     .about .contanier {
         width: 100%;
