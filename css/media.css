@@ -545,7 +545,7 @@
     }
 
     .about .about_me h2 {
-        font-size: 60px;
+        font-size: 55px;
         padding: 20px;
     }
 
@@ -667,7 +667,7 @@
     /* End Resume */
 
     .Portfolio .Portfolio_head h2 {
-        font-size: 60px;
+        font-size: 55px;
         padding: 20px;
     }
 
@@ -688,13 +688,13 @@
     }
 
     .Testimonial .Testimonial_head h2 {
-        font-size: 60px;
+        font-size: 55px;
     }
 
     .Testimonial .Testimonial_head p {
         font-size: 25px;
-        left: 33%;
-        top: 40%;
+        left: 30%;
+        top: 37%;
     }
 
     .Testimonial .Testimonial_box {
